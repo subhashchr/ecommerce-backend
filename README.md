@@ -123,4 +123,4 @@ curl -X GET http://localhost:8080/metrics
 
 ## 📌 GitHub Repository
 The complete code is available at:  
-📌 **[GitHub Repo: <YOUR_GITHUB_LINK>]**
+📌 **[GitHub Repo: https://github.com/subhashchr/ecommerce-backend]**
