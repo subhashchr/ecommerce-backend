@@ -1,0 +1,8 @@
+
+# Create Order with order_id as input
+curl -X POST http://localhost:8080/order      -H "Content-Type: application/json"      -d '{
+           "order_id": 12345,
+           "user_id": 1,
+           "item_ids": [101, 102, 103],
+           "total_amount": 99.99
+         }'
